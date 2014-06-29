@@ -1,0 +1,91 @@
+body{
+	margin: 0px;
+	}
+li {
+list-style: none;
+text-decoration:none;
+display:inline;
+}
+
+
+
+a{
+	text-decoration: none;
+	color:blue;
+	
+}
+  .center{
+
+	width: 600px;
+	padding:0px; 
+	position:fixed;
+	display: block;
+	top:150px;
+	left:500px;
+	bottom:100px;}
+
+ #logo img{
+ 	margin-left: 100px;
+
+	display:block;
+	
+	width:290px;
+}
+
+#buta{
+	display:inline-block;
+	margin-top: 5px ;
+	margin-left:150px;
+ }
+
+
+#navbar li{
+	float:right;
+	display:inline;
+	word-spacing:10px ;
+}
+form input {
+height:30px ;
+
+width:500px;
+
+}
+.footer{
+	margin-left:0px;
+	width:100%;
+	border:1px solid #CACABC;
+	position:absolute;
+	list-style: none;
+	padding: 0px 2px 0px 0px;
+	clear:both;
+	text-decoration:none;
+	background-color:#E0E0D1;
+	float:bottom;
+	bottom:0px;	
+word-spacing:5px;}
+
+.left { 
+	
+display: inline-block;
+float:left; 
+bottom:0px;
+left:0px;}
+
+ .right{
+	
+	display:inline-block;
+float:right;	
+bottom:0px;
+right:50px;}
+
+
+div div.circular img { 
+display: block;
+height: 32px;
+width:32px;
+background-image:"https://lh4.googleusercontent.com/-lSJKlHwfsWI/AAAAAAAAAAI/AAAAAAAAAAA/tn84yt5iml8/s32-c/photo.jpg" ;
+background-size: cover;
+border-radius: 100%;
+-moz-border-radius: 100%;
+border: 1px solid #fff;
+}
